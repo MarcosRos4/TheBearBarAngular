@@ -1,4 +1,4 @@
 export const environment = {
     mock: false,
-    urlApi: 'http://localhost:2319'
+    urlApi: 'https://thebearbarspringboot.onrender.com'
   };
